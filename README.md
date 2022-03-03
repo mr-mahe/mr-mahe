@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mr-mahe
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on urban data analytics
+- 👋 Hi, I’m @mr-mahesh
+- 👀 I’m interested in geo-spatial data science 
+- 🌱 I’m currently learning urban data analytics 
+- 💞️ I’m looking to collaborate on urban data analytics projects
 - 📫 How to reach me mahesh.l.dutt@gmail.com
 
 <!---
